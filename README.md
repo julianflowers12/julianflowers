@@ -1,10 +1,10 @@
 
-# julianflowers
+# covidatoR
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of julianflowers is to ...
+The goal of `codivatoR is to ...
 
 ## Installation
 
