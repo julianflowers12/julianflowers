@@ -11,7 +11,7 @@ The goal of julianflowers is to ...
 You can install the released version of julianflowers from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("julianflowers")
+install.packages("covidatoR")
 ```
 
 ## Example
@@ -19,7 +19,7 @@ install.packages("julianflowers")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(julianflowers)
+library(covidatoR)
 ## basic example code
 ```
 
